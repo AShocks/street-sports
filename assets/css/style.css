@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Montserrat, sans-serif;
+    font-family: Libre, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 }
@@ -15,7 +15,7 @@ body {
 /* headings and logo*/
 
 h1, h2 {
-    font-family: Montserrat,sans-serif;
+    font-family: Roboto,sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #252525;
@@ -25,3 +25,17 @@ h1, h2 {
     float: left;
     font-size: 280%;
 }
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
