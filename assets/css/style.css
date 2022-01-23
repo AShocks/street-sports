@@ -9,7 +9,7 @@
 body {
     font-family: Libre, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #1a365c;
 }
 
 /* headings and logo*/
@@ -18,7 +18,7 @@ h1, h2 {
     font-family: Roboto,sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #252525;
+    color: #1a365c;
 }
 
 #logo {
@@ -49,11 +49,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #1a365c;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #1a365c;
 }
 
 /* hero-image */
