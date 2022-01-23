@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 20px;
 }
 
 /* navigation links */
@@ -86,5 +87,25 @@ h1, h2 {
     to {
         transform: scale(1.1);
     }
+}
+
+/* academy story */
+
+#academy-story {
+    height: 600px;
+}
+
+#left-story {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: green;
+}
+
+#right-story {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: blue;
 }
 
