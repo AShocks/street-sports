@@ -97,16 +97,17 @@ h1, h2 {
 
 #left-image-container {
     padding-top: 20px;
-    width: 50%;
+    width: 40%;
     float: left;
     
 }
 
 #right-side-content {
     padding-top: 20px;
-    width: 50%;
-    height: 400px;
+    width: 60%;
+    /*height: 400px;*/
     float: right;
+    background-color: blue;
     
 }
 
