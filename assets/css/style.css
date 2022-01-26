@@ -95,17 +95,42 @@ h1, h2 {
     height: 600px;
 }
 
-#left-story {
-    padding-top: 30px;
+#left-image-container {
+    padding-top: 20px;
     width: 50%;
     float: left;
-    background-color: green;
+    
 }
 
 #right-story {
-    padding-top: 30px;
+    padding-top: 20px;
     width: 50%;
     float: right;
-    background-color: blue;
+    
 }
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+#left-image {
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #1a365c;
+    border-width: 5px;
+    border-radius: 25px;
+    margin: 0 auto;
+    background: url(../images/street-football.jpeg) no-repeat center center;
+}
+
+
+
+
+
+
+
 
