@@ -159,6 +159,10 @@ h1, h2 {
 
 /* contact details */
 
+#contact_us{
+    height: 300px;
+}
+
 #contact {
     text-align: center;
     background-color: #9dae5d;
@@ -174,6 +178,36 @@ h1, h2 {
 }
 
 
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #1a365c;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    
+}
+
+/* Copyright */
+
+.copyright {
+    text-align: center;
+    
+    color: #1a365c;
+}
 
 
 
