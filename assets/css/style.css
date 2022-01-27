@@ -23,7 +23,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 180%;
     margin-left: 20px;
 }
 
@@ -68,7 +68,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero-image.jpeg') no-repeat center center;
+    background: url(../images/hero-image.jpeg) no-repeat center center;
 
     /* animates zoom effect on loading page */
 
@@ -102,12 +102,34 @@ h1, h2 {
     
 }
 
+#welcome-info {
+    width: 100%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 20px;
+    
+}
+
+#welcome-heading {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    
+}
+
+#aims {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: -20px;
+}
+
 #right-side-content {
     padding-top: 20px;
     width: 60%;
     /*height: 400px;*/
     float: right;
-    background-color: blue;
+    
     
 }
 
@@ -117,8 +139,12 @@ h1, h2 {
     font-size: 280%;
 }
 
+
+    
+
+
 #left-image {
-    width: 400px;
+    width: 300px;
     height: 400px;
     padding: 30px;
     border-style: solid;
