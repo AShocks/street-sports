@@ -305,7 +305,30 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #academy-story{
+        width:90%;
+        height: 1200px;
+        margin: 0 auto;
 }
+
+#left-image-container, #right-side-content {
+    width:inherit;
+    
+}
+
+.right-side-content h3{
+    width: 100%;
+    text-align: center;
+}
+
+.right-side-content p{
+    text-align: center;
+    padding: 0 20px;
+}
+
+}
+
 
     
         
