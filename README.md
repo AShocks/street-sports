@@ -30,7 +30,7 @@ Our aim is to improve the moral, social and physical welfare of the young people
 ## Contact Us
 
 ..* This section has the green background colour to contrast the blue with the contact information supplied and easily legible in white.
-..* There is both a landline and a mobile number provided as well as an email address to make communication with usersas easy as possible.
+..* There is both a landline and a mobile number provided as well as an email address to make communication with users as easy as possible.
 
 [Navigation Menu](..images/nav_image.png)
 
