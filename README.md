@@ -80,9 +80,11 @@ The main image below shows a group of kids playing football in a non competitve 
 * # Deployment
 
     * The site was deployed to GitHub pages. The steps are as follows:
-    * Navigate to the settings tab in the GitHub repository.
-    * From the source section drop-down menu, select the master 
+    * Navigate to the settings tab in the GitHub repository
+    * From the source section drop-down menu, select the master branch 
     * Once selected, the page provided the link to the completed website
+
+The link to the live website can be found here - [StreetSports Soccer Academy](https://8000-hocks-streetsports-yluarf3ie6l.ws-eu42.gitpod.io/index.html)
 
 * # Credits
 
