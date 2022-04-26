@@ -228,7 +228,7 @@ footer {
 }
 
 /* Form */
-
+/* From the Love Running Challenge*/
 .form-section {
     clear: left;
     background: url();
@@ -282,6 +282,7 @@ footer {
         color:#1a365a;
     }
 
+    /* Media Queries */
     /* For large to medium screens sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px){
@@ -319,7 +320,7 @@ footer {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px; 
+        margin-left: 20px; 
         margin-bottom: 20px;
         line-height: 25px;
     }
