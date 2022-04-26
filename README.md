@@ -33,7 +33,7 @@ The main image below shows a group of kids playing football in a non competitve 
 * ## Contact Us
 
     * This section has the green background colour to contrast the blue with the contact information supplied and easily legible in white
-    * There is both a landline and a mobile number provided as well as an email address to make communication with users as easy as possible
+    * There is both a landline and a mobile number provided as well as an email address to make communication for users as easy as possible
 
     * ## The Footer
 
@@ -51,7 +51,7 @@ The main image below shows a group of kids playing football in a non competitve 
     * The form is used to collect data from parents whose children would like to join our academy
 
     * The form lets parents or guardians register their and their child's name as well as contact details
-    * The form is valuable to the user as it lets them join up to the Streetsports soccer academy
+    * The form is valuable to the user as it lets them join up to the Streetsports Soccer Academy
 
 ![SignUp Form](/assets/images/form.PNG)
 
@@ -59,11 +59,12 @@ The main image below shows a group of kids playing football in a non competitve 
 * # Testing
 
     * The website was tested and works in these three browsers: Chrome, Safari and Firefox
-    * The website was tested for its reponsiveness in all standard screensizes and functions as required
+    * The website was tested for its reponsiveness in all standard screensizes 
     * This was by using the devtools toolbar device
     * I have confirmed that the navigation links are working correctly and that all information is clearly laid out and legible to the user
     * The form requires an entry in every field and will remind the user if something is missing
     * The form cannot be submitted without a valid email address
+
 
 * # Vaiidator Testing
 
@@ -75,7 +76,7 @@ The main image below shows a group of kids playing football in a non competitve 
 
 * # Unfixed Bugs
 
-    * Due to running out of time, I was unable to fix a possible bug causing the form section to freeze intermittently
+    * Although the site was tested on all screen sizes, I was unable to get it to work satisfactorily when it went down to mobile device sizes
 
 * # Deployment
 
