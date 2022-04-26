@@ -3,6 +3,8 @@
 StreetSports Soccer Academy is a voluntary organisation that specialise in coaching soccer skills to children between the ages of 7 to 12 years old.
 Our aim is to improve the moral, social and physical welfare of the young people under our care, mainly through the promotion of football. The aim of the Academy is to pass on our love of football to young children and equip them for a healthy childhood where they can enjoy playing sports, fulfilling their potential to the maximum and developing important life skills. With this in mind, we see the website as an excellent opportunity to target parents with children in these age groups who have an interest in football and sport in general.
 
+![Kids playing football](/assets/images/image1.PNG)
+
 
 # Features
 
@@ -12,6 +14,8 @@ Our aim is to improve the moral, social and physical welfare of the young people
     * The other navigation links are in the top right. Home, About Us, Contact and Sign Up which lead to  their individual sections on the home page with the Sign Up form on a second page.
     * Each navigation link is underlined when you hover over it to highlight the section for the user.
     * The navigation is clearly laid out to make it easy for the user to find the information they need.
+
+![Navigation links](/assets/images/nav_image.PNG)
 
 
 * ## What we Do
