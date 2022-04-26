@@ -3,6 +3,7 @@
 StreetSports Soccer Academy is a voluntary organisation that specialise in coaching soccer skills to children between the ages of 7 to 12 years old.
 Our aim is to improve the moral, social and physical welfare of the young people under our care, mainly through the promotion of football. The aim of the Academy is to pass on our love of football to young children and equip them for a healthy childhood where they can enjoy playing sports, fulfilling their potential to the maximum and developing important life skills. With this in mind, we see the website as an excellent opportunity to target parents with children in these age groups who have an interest in football and sport in general.
 
+The main image below shows a group of kids playing football in a non competitve game which is what we want to promote.
 ![Kids playing football](/assets/images/image1.PNG)
 
 
@@ -18,13 +19,14 @@ Our aim is to improve the moral, social and physical welfare of the young people
 ![Navigation links](/assets/images/nav_image.PNG)
 
 
-* ## What we Do
+* ## About Us
 
-    * The main image shows a group of kids playing football in a non competitve game which is what we want to promote.
-    * The image to the left of the screen has a group of kids playing in the street. This is where the name for the academy came from.
+    * The image below  has a group of kids playing in the street. This is where the name for the academy came from.
     * The information provided clearly states the mission and culture of the academy and what we want to achieve.
     * It navigates the user to a link to the sign up page, and gives information on price and times available.
-    * The contrasting colors of the blue on the white background with a little bit of green make it an aesthetically pleasing and easy to read website.
+    * The contrasting colours of the blue on the white background with a little bit of green make it an aesthetically pleasing and easy to read website.
+
+![Football on the street](/assets/images/about_us.PNG)
 
 
 
@@ -33,17 +35,25 @@ Our aim is to improve the moral, social and physical welfare of the young people
     * This section has the green background colour to contrast the blue with the contact information supplied and easily legible in white.
     * There is both a landline and a mobile number provided as well as an email address to make communication with users as easy as possible.
 
-
-
-* ## The Footer
+    * ## The Footer
 
     * The footer has a white background again with four social media icons in the blue colour. Each of these are clickable links to their respective wesites for ease of use.
 
-    * The Sign up page maintains the same main image and color scheme throughout with the form highlighted in the blue and east to follow
-    * The form is used to collect data from parents whose children aould like to join our academy.
+![Contact Section](/assets/images/contact_us.PNG)
 
-    * The form lets parents or guardians register their and their child's name as well contact details.
+
+
+
+
+
+
+    * The Sign up page maintains the same main image and color scheme throughout with the form highlighted in the blue and easy to follow.
+    * The form is used to collect data from parents whose children would like to join our academy.
+
+    * The form lets parents or guardians register their and their child's name as well as contact details.
     * The form is valuable to the user as it lets them join up to the Streetsports soccer academy.
+
+![SignUp Form](/assets/images/form.PNG)
 
 
 * # Testing
