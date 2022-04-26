@@ -45,7 +45,7 @@ The main image below shows a group of kids playing football in a non competitve 
 
 
 
-
+* ## The Sign Up Form
 
     * The Sign up page maintains the same main image and color scheme throughout with the form highlighted in the blue and easy to follow.
     * The form is used to collect data from parents whose children would like to join our academy.
@@ -58,18 +58,20 @@ The main image below shows a group of kids playing football in a non competitve 
 
 * # Testing
 
-    * The website was tested and works in these three btowsers: Chrome, Safari and Firefox.
+    * The website was tested and works in these three browsers: Chrome, Safari and Firefox.
     * The website was tested for its reponsiveness in all standard screensizes and functions as required.
     * This was by using the devtools toolbar device.
-    * I have confirmed that the navigation links are working orrectly and that all information is clearly laid out and legible to the user.
+    * I have confirmed that the navigation links are working correctly and that all information is clearly laid out and legible to the user.
     * The form requires an entry in every field and will remind the user if something is missing.
     * The form cannot be submitted without a valid email address.
 
 * # Vaiidator Testing
 
-    * I confirm that the colours and the fonts chosen are eay to read and accessible by running it through lighthouse in devtools.
+    * I confirm that the colours and the fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
     * No errors were found when passing through the official jigsaw validator (CSS).
     * No errors were found when passing through the official W3C validator (HTML).
+
+![Lighthouse Report](/assets/images/lighthouse_report.PNG)
 
 * # Unfixed Bugs
 
